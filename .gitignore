@@ -1,0 +1,6 @@
+.settings/*
+.classpath
+.project
+target/classes/*
+target/surefire-reports/*
+target/test-classes/*
